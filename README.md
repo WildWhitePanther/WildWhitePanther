@@ -1,6 +1,6 @@
 👋 Hey you, <strong>I’m Nivea</strong>
 
-👀 I’m have interest in Networking and Web Designing.🌱 I’m currently learning to expand my knowledge on Networking meanwhile working on my HomeLab
+👀 I have interest in Networking and Web Designing.🌱 I’m currently learning to expand my knowledge on Networking meanwhile working on my HomeLab
 - 📫 you can email me at niveachandrasegaran2001@gmail.com 
 - Do visit my website!! https://portfolio.wildwhitepanther.com/
 <!---
